@@ -1,0 +1,16 @@
+---
+title: "1/7/26 BIOE 176 Assignment"
+date: 2026-01-07
+format: gfm
+editor: visual
+---
+
+# Header 1
+
+*here's the italics*
+
+**here's the bold**
+
+## Header 2
+
+`10+20`
